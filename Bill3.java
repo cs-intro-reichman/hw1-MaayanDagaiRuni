@@ -13,7 +13,7 @@ public class Bill3 {
 		double round_pay_each = Math.ceil(pay_each);
 
 		// Print the Names and the amount to pay ecah
-		System.out.println("Dear " + name3 + ", " + name2 + " and " + name1 +
+		System.out.println("Dear " + name3 + ", " + name2 + ", and " + name1 +
 						   ": pay " + round_pay_each + " Shekels each.");
 
 	}
